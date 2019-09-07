@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## ARCHITECTURE THEORY | SINCE 1968 
+## EDITED BY MICHAEL HAYS
 
 You can use the [editor on GitHub](https://github.com/San-Diago/ArchitectureTheory/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 1969 MANFREDO TAFURI 
+## TOWARD A CRITIQUE OF ARCHITECTURAL IDEOLOGY
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
