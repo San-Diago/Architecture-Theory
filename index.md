@@ -37,13 +37,22 @@ Syntax highlighted code block
 
 ```
 # 1974
-## MANFREDO TAFURE 
+## MANFREDO TAFURI
 ### L'Architecture dans le Boudouir: the language of Criticism and the Criticism of Language
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Venturi and Rauch designed project on Benjamin Franklin avenue in Philadelphia
+ - Architecture is dissolved into a deconstructed system of ephemeral signals
+ - In place of communication, there is a flux of information; in place of architecture as language, there is an attempt to reduce it to a mass medium, withou any ideological residues... 
+
+Michel Foucault on the different types of discourse
 
 ```markdown
 Syntax highlighted code block
+
+```
+# 1974
+## HENRI LEFEBVRE
+### From The Production of Space
 
 # Header 1
 ## Header 2
