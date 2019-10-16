@@ -40,7 +40,7 @@ Syntax highlighted code block
 ## MANFREDO TAFURI
 ### L'Architecture dans le Boudouir: the language of Criticism and the Criticism of Language
 
-Venturi and Rauch designed project on Benjamin Franklin avenue in Philadelphia
+Venturi and Rauch designed project on Benjamin Franklin avenue in Philadelphia (Guild House possibly)
  - Architecture is dissolved into a deconstructed system of ephemeral signals
  - In place of communication, there is a flux of information; in place of architecture as language, there is an attempt to reduce it to a mass medium, withou any ideological residues... 
 
